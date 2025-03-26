@@ -240,7 +240,7 @@ ol {
 .button:hover {
   text-decoration: underline 1px;
   cursor: pointer;
-}
+} 
 
 .button:active {
   text-decoration: none;
