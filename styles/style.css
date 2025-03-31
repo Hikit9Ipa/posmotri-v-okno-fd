@@ -73,7 +73,7 @@ ol {
   display: flex;
   justify-content: space-between;
   align-items: end;
-  height: 54px;
+
   
 }
 .content__list-container {
@@ -85,7 +85,7 @@ ol {
   position: relative;
   width: 711px;
   height: 386px;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 .result__video {
   width: inherit;
